@@ -2,4 +2,5 @@
 
 Creada para fines didacticos y educativos.
 
-[!WARNING] **ESTA PÁGINA NO ES LA OFICIAL**
+>[!WARNING]
+>**ESTA PÁGINA NO ES LA OFICIAL**
