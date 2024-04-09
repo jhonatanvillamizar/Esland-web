@@ -20,5 +20,6 @@
   },
   "devDependencies": {
     "tailwindcss-animated": "^1.0.1"
-  }
+  },
+  "homepage": "/Users/ricardocamacho/Desktop/clone-esland/esland-web/dist/index.html"
 }
